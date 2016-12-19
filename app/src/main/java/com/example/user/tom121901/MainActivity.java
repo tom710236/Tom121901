@@ -32,4 +32,7 @@ public class MainActivity extends AppCompatActivity {
         Notification notification = builder.build();
         nm.notify(1, notification);
     }
+    public void tt {
+        
+    }
 }
